@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyansu 🥰</h1>
 <h3 align="center">A passionate Data scientist who loves learning about Machine Learning, Deep Learning and Artificial Intelligence and I LOVE CATS AND DOGS <3</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansuamritnag" alt="priyansuamritnag" /></a> </p>
 
 - 🔭 I’m currently working on [Blood Bank Management System](https://github.com/priyansuamritnag/Blood_bank_management)
   
