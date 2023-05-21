@@ -4,16 +4,22 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansuamritnag" alt="priyansuamritnag" /></a> </p>
 
 - 🔭 I’m currently working on [Blood Bank Management System](https://github.com/priyansuamritnag/Blood_bank_management)
+  
 
 - 🌱 I’m currently learning **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
+  
 
 - 👯 I’m looking make [Image Segregation System using Tensorflow](https://github.com/priyansuamritnag/Image-Segmentation-Tensorflow)
+  
 
 - 🤝 I’m looking for help with [Image Segregation System using Tensorflow](https://github.com/priyansuamritnag/Image-Segmentation-Tensorflow)
+  
 
 - 💬 Ask me about **Python, pyTorch, Sci-Kit Learn and TensorFlow**
+  
 
 - 📫 How to reach me **priyansu.amrit@gmail.com**
+  
 
 - ⚡ Weeb Fact **I have crossed 1000+ entries on myanimelist.**
 
